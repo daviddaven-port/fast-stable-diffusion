@@ -10,3 +10,10 @@ Soon will stop maintaining paperspace notebooks.
 Dreambooth paper : https://dreambooth.github.io/
 
 SD implementation by @XavierXiao : https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
+
+## Notes (personal use)
+- Quick-start baseline for reproducible local runs.
+- CPU-only tests or brief, small GPU sessions.
+- No commercial use.
+- Last updated: 2025-11-02 (America/Chicago)
+
